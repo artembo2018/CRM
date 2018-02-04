@@ -1,0 +1,33 @@
+.month-panel .tab-content {
+  color : white;
+  background-color: #008090!important;
+  padding : 5px 15px!important;
+}
+
+/* remove border radius for the tab */
+
+.month-panel .nav-pills > li > a {
+  border-radius: 4px;
+}
+
+.table-calendar-days {
+    background-color: #fff;
+}
+
+.table-calendar-days tr td {
+    
+}
+
+.table-calendar-days tr td:hover {
+    cursor:pointer;
+}
+.report-data-block {
+    color: black;
+    border: 2px solid #008090;
+}
+.report-data-block .list-group i[data-toggle=modal] {
+    cursor: pointer;
+}
+.exit-btn {
+    float: left;
+}

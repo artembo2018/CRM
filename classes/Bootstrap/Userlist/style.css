@@ -1,0 +1,17 @@
+.userview-container {
+    border: 2px dashed #008090!important;
+    border-radius: 6px;
+    padding: 32px 12px;
+    text-align: left;
+    font-size: 17px;
+    background: #8fefda!important;
+    color : #111;
+}
+
+.userview-container .badge { 
+    float: left;
+}
+
+.active-class {
+    background: #8fefda!important;
+}
